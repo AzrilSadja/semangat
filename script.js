@@ -7,11 +7,11 @@ let nextClicked = false;
 
 nextBtn.addEventListener("click", () => {
   if (!nextClicked) {
-    question.innerHTML = "Thank you for loving me, with all my shortcomings.";
+    question.innerHTML = "Semangattt buat ujiannya besokkk adekkk.";
     gif.src = "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/temaaciii.gif";
-    nextBtn.innerHTML = "reply";
+    nextBtn.innerHTML = "mau balas?";
     nextClicked = true;
   } else {
-    window.location.href = "https://wa.me/yournumber?text=reply%20message%20whatever";
+    window.location.href = "https://wa.me/yournumber?text=mau%20ngapain%20hayo";
   }
 });
