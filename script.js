@@ -12,6 +12,6 @@ nextBtn.addEventListener("click", () => {
     nextBtn.innerHTML = "mau balas?";
     nextClicked = true;
   } else {
-    window.location.href = "https://wa.me/yournumber?text=mau%20ngapain%20hayo";
+    window.location.href = "https://wa.me/6281391768759?text=mau%20balas%20apahayo";
   }
 });
